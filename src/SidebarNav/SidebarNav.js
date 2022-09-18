@@ -1,6 +1,6 @@
 import React from 'react';
 import './SidebarNav.css';
-import logo from 'logo.svg';
+import logo from 'ProgressTeaching-Logo.png';
 
 const SidebarNavItem = function(props) {
   let item = props.item
