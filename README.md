@@ -25,6 +25,20 @@ class Example extends Component {
 }
 ```
 
+## Local development
+
+Create two terminals.
+
+On one run:
+```
+$ npm start;
+```
+
+On the other:
+```
+$ cd example && npm start;
+```
+
 ## License
 
 MIT © [ProgressTeaching](https://github.com/ProgressTeaching)
