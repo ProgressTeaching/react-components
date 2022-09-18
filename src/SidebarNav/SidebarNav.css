@@ -1,0 +1,7 @@
+.ProgressTeaching-sidebar {
+  background-color: #2f4050;
+}
+
+body:not(.layout-fixed) .main-sidebar {
+  min-height: 100vh;
+}
