@@ -27,9 +27,9 @@ const SidebarNavItem = function(props) {
 
 function SidebarNav(props) {
   return (
-    <div className="SidebarNav">
+    <div className="ProgressTeaching-sidebar">
      {/* Main Sidebar Container */}
-      <aside className="main-sidebar sidebar-dark-primary ProgressTeaching-sidebar">
+      <aside className="main-sidebar sidebar-dark-primary">
 
         {/* Brand Logo */}
         <a href="/" className="brand-link w-100 px-3 py-5">
