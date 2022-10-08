@@ -1,11 +1,11 @@
 import React from 'react'
 
 import { SidebarNav } from 'react-components'
-import 'react-components/dist/index.css'
+import { SidebarNavItems } from './FakeData'
 
 const App = () => {
   return <>
-    <SidebarNav />
+    <SidebarNav items={SidebarNavItems} />
   </>
 }
 

@@ -1,8 +1,10 @@
 import './index.css'
 
+import 'admin-lte'
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App'
+import 'react-components/dist/index.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
