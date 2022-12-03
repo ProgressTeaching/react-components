@@ -1,4 +1,4 @@
-.ProgressTeaching-sidebar .sidebar-dark-primary {
+.ProgressTeaching-sidebar .sidebar-dark-primary, [class*=sidebar-dark-] {
   background-color: #2f4050;
 }
 
