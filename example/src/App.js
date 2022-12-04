@@ -39,8 +39,6 @@ const App = () => {
         <code>{`const colours = new Colours()`}</code>
 
         { colourKeys.map( key => {
-          console.log(Object.keys(allColours[key]))
-
           return (<div className='mt-4' key={key}>
             <h2>{capitalize(lowerCase(key))}</h2>
             {getColourCard(key)}
