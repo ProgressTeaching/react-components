@@ -5,6 +5,9 @@ const ColourList = {
   red: {
     default: "#ed5565",
   },
+  yellow: {
+    default: "#fdcb6e",
+  },
   green: {
     default: "#19b394",
     dark: "#15866f",
